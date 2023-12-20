@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+    font-size: 15px;
+}
+h1{
+    color: brown;
+}
+#label1{
+    padding-bottom: 10px;
+}
+
+#e_id{
+    border-radius :0%;
+    padding-top: 0px;
+    background-color: #b4a272;
+}
+#e_name{
+    border-radius :0%;
+    background-color: #b4a272;
+}
+#e_salary{
+    border-radius :0%;
+    background-color: #b4a272;
+}
+
+#add{
+    background-color: rgb(250, 234, 234);
+}
+
+th{
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse; 
+     width: 50%; 
+    margin-top: 20px; 
+}
+tr{
+    background-color: rgb(153, 172, 165);
+    color: white;
+}
+
+/* #table1{
+    display: none;
+} */
+
+table, th, td{
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align:center;
+}
+
+#top-div {
+    display: flex;
+    justify-content: center;
+}
+
+#form-div {
+    /* text-align: center; */
+    background: rgb(221, 214, 153);
+    width: 200px;
+    height: 200px;
+    padding-top: 20px;
+
+    display: flex;
+    
+    
+    justify-content: center;
+}
+
+#below-table{
+    display: flex;
+    justify-content: center;
+    /* background-color: rgb(136, 133, 129); */
+}
+
+#search
+{
+    border-radius: 20%;
+    background-color: #fdda80;
+   
+    
+    
+}
+
+
